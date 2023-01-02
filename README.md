@@ -10,7 +10,7 @@ The MHOC codes will be comming soon.
 
 If you find *MHOC* useful for your research, please consider citing the following paper:
 >- @article{MHOC-Physica-2023, 
-title = {Link prediction based on the mutual information with high-order clustering structure of nodes in complex networks},</br>
+title = {Link prediction based on the mutual information with high-order clustering structure of nodes in complex networks},
 journal = {Physica A: Statistical Mechanics and its Applications},</br>
 volume = {610},</br>
 pages = {128428},</br>
@@ -18,7 +18,5 @@ year = {2023},</br>
 issn = {0378-4371},</br>
 doi = {https://doi.org/10.1016/j.physa.2022.128428},</br>
 url = {https://www.sciencedirect.com/science/article/pii/S0378437122009864},</br>
-author = {Yabing Yao and Tianyu Cheng and Xiaoqiang Li and Yangyang He and Fan Yang and Tongfeng Li and Zeguang Liu and Zhipeng Xu},</br>
-keywords = {Complex networks, Higher-order clustering coefficient, Information entropy, Link prediction},</br>
-abstract = {}
+author = {Yabing Yao and Tianyu Cheng and Xiaoqiang Li and Yangyang He and Fan Yang and Tongfeng Li and Zeguang Liu and Zhipeng Xu},
 }
