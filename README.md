@@ -8,7 +8,7 @@ The MHOC codes will be comming soon.
 
 > In complex networks, link prediction can forecast missing links and identify spurious interactions has wide applications in the real world. Although the high-order structure plays a vital role in network evolution, its effect on link prediction is not always taken into consideration in traditional prediction algorithms. In this paper, we come up with a novel link prediction approach based on Mutual information of the High-Order Clustering structure (MHOC). The MHOC approach integrates the effects of multiple higher-order structures of nodes and quantifies the different contributions of common neighbors with the aid of the diverse high-order clustering coefficients of nodes based on information entropy for predicting missing links. Experimental results demonstrate that in the real world network, the high-order clustering patterns of nodes can improve link prediction accuracy significantly.
 
-<img decoding="async" src="./MHOC4LinkPrediction/main/MHOC.jpg" width="50%">
+<img decoding="async" src="main/MHOC.jpg" width="50%">
 
 ## Citing
 
