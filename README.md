@@ -11,7 +11,7 @@ The MHOC codes will be comming soon.
 ## Citing
 
 If you find *MHOC* useful for your research, please consider citing the following paper:
-> @article{MHOC-Physica-2023, </br>
+> @article{MHOC-Physica-2022, </br>
 title = {Link prediction based on the mutual information with high-order clustering structure of nodes in complex networks},</br>
 journal = {Physica A: Statistical Mechanics and its Applications},</br>
 volume = {610},</br>
