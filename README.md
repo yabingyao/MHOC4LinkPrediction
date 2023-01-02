@@ -18,5 +18,5 @@ year = {2023},</br>
 issn = {0378-4371},</br>
 doi = {https://doi.org/10.1016/j.physa.2022.128428},</br>
 url = {https://www.sciencedirect.com/science/article/pii/S0378437122009864},</br>
-author = {Yabing Yao and Tianyu Cheng and Xiaoqiang Li and Yangyang He and Fan Yang and Tongfeng Li and Zeguang Liu and Zhipeng Xu},
+author = {Yabing Yao and Tianyu Cheng and Xiaoqiang Li and Yangyang He and Fan Yang and Tongfeng Li and Zeguang Liu and Zhipeng Xu} </br>
 }
