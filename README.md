@@ -1,4 +1,4 @@
-### Link prediction based on the mutual information with high-order clustering structure of nodes in complex networks
+#### Link prediction based on the mutual information with high-order clustering structure of nodes in complex networks
 
 The MHOC codes will be comming soon.
 
