@@ -2,7 +2,7 @@
 
 > Tips: we computes the high-order clustering structure of nodes with the aid of [HigherOrderClustering](http://snap.stanford.edu/hocc/) in our paper, you can download the HigherOrderClustering codes from [HERE](https://github.com/arbenson/HigherOrderClustering.jl).
 
-> Yao Y, Cheng T, Li X, et al. Link prediction based on the mutual information with high-order clustering structure of nodes in complex networks[J]. Physica A: Statistical Mechanics and its Applications, 2022: 128428.
+> Yao Y, Cheng T, Li X, et al. [Link prediction based on the mutual information with high-order clustering structure of nodes in complex networks](https://doi.org/10.1016/j.physa.2022.128428)[J]. Physica A: Statistical Mechanics and its Applications, 2022: 128428.
 
 ## Abstract
 
