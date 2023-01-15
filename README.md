@@ -1,7 +1,5 @@
 # MHOC
 
-The MHOC codes will be comming soon.
-
 > Yao Y, Cheng T, Li X, et al. Link prediction based on the mutual information with high-order clustering structure of nodes in complex networks[J]. Physica A: Statistical Mechanics and its Applications, 2022: 128428.
 
 ## Abstract
